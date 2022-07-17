@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 Add new line for a Push
 Added by Jon Jon Hernandez
 New Changes for Pull Demo
+
+For push Demo only
